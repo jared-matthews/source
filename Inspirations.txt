@@ -3,8 +3,9 @@ By no means anything made by a man is Perfect but developers try their best to f
 This project at this moment is stable and support from few developers. More developers are welcome to join and
 carry the development forward and enhance it. 
 
-DigitalRs started as just a learning project and a door opener from Pakistan. It aimt to be an open community 
+DigitalRs started as just a learning project and a door opener from Pakistan. It aims to be an open community 
 project with no centralized control. Its a dream for some and hopefully one day it can achieve those dreams.
+Thanks go to Basit Alvi of Brain Telecommunications Pvt Ltd, Pakistan for his efforts and contribution.
 
 This project will not be anything without open-ness and a strong community.
 
