@@ -84,11 +84,11 @@ digitalrs.conf
 
 There is no need to add nodes as the daemon will pick up nodes itself.
 
-rpcuser=digitalrs
-rpcpassword=sOm3p455w0rd
-rpcallow=127.0.0.1
-listen=1
-server=1
-daemon=1
+rpcuser=digitalrs <br/>
+rpcpassword=sOm3p455w0rd <br/>
+rpcallow=127.0.0.1 <br/>
+listen=1<br/>
+server=1<br/>
+daemon=1<br/>
 
 
