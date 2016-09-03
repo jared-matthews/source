@@ -56,9 +56,10 @@ Stage Age: 5 Hours <br />
 Onion Sync
 ==========
 
-Windows: Download Vidalia from https://www.torproject.org/dist/vidalia-bundles/ then Tor Expert Bundle and point your wallet <br />
-towards it. The reason for this is to update the latest Tor binary inside Vidalia since it is not maintained anymore. If you <br />
-prefer to use the Tor Browser bundle then it will work just fine but Vidalia is resource friendly on Windows OS. <br />
+Windows: Download Vidalia from https://www.torproject.org/dist/vidalia-bundles/ then Tor Expert Bundle and point your <br />
+wallet towards it. The reason for this is to update the latest Tor binary inside Vidalia since it is not maintained <br />
+anymore. If you prefer to use the Tor Browser bundle then it will work just fine but Vidalia is resource friendly on <br />
+Windows Operating System. <br />
 
 Linux: do apt-get install tor and run digitalrs-qt and use local Tor proxy IP and port. <br />
 It will automatically find the Onion nodes for you and if not, the exit nodes will do the job. <br />
