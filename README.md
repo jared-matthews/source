@@ -67,7 +67,7 @@ It will automatically find the Onion nodes for you and if not, the exit nodes wi
 SURICATA IPS Rules
 ==================
 
-RPC and P2P rules for DRS is kept privately at http://git.cryptoedge.net:3000 <br />
+RPC and P2P rules for DRS is kept privately at http://git.cryptoedge.net:3000. Contact dev for access. <br />
 They will be uploaded to release folder once integrated with the CE Open Appliance or IPFire project. <br />
 Contact the main developer if you want to test the Intrusion Detection Ruleset. <br />
 
