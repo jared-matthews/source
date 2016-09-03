@@ -1,0 +1,13 @@
+Digital Rupees is inspired by Bitcoin and enhancements done by amazing developers of PPCoin & Novacoin <br />
+By no means anything made by a man is Perfect but developers try their best to find problems and remove them <br />
+This project at this moment is stable and support from few developers. More developers are welcome to join and <br />
+carry the development forward and enhance it. <br />
+<br />
+DigitalRs started as just a learning project and a door opener from Pakistan. It aimt to be an open community <br />
+project with no centralized control. Its a dream for some and hopefully one day it can achieve those dreams. <br />
+<br />
+This project will not be anything without open-ness and a strong community.
+
+<br />
+
+-the dev
