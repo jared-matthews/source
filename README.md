@@ -78,3 +78,17 @@ When compiling and running DigitalRs daemon on Linux, first run pauses at block 
 If you want to make a quick sync then do digitalrsd stop and then digitalrsd start again for immediate sync. <br />
 This takes time because inactive user wallets are tried several times before next block sync is initiated at 1K block. <br />
 Note that this is not a bug and initial startup procedure to create a valid peers.dat file. <br />
+
+digitalrs.conf
+==============
+
+There is no need to add nodes as the daemon will pick up nodes itself.
+
+rpcuser=digitalrs
+rpcpassword=sOm3p455w0rd
+rpcallow=127.0.0.1
+listen=1
+server=1
+daemon=1
+
+
