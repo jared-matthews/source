@@ -1,13 +1,17 @@
 Digital Rupees is inspired by Bitcoin and enhancements done by amazing developers of PPCoin & Novacoin
 By no means anything made by a man is Perfect but developers try their best to find problems and remove them 
-This project at this moment is stable and support from few developers. More developers are welcome to join and
-carry the development forward and enhance it. 
+This project at this moment is stable. More developers are welcome to join and carry the development forward
+and enhance it. 
 
 DigitalRs started as just a learning project and a door opener from Pakistan. It aims to be an open community 
 project with no centralized control. Its a dream for some and hopefully one day it can achieve those dreams.
 Thanks go to Basit Alvi of Brain Telecommunications Pvt Ltd, Pakistan for his efforts and contribution.
 
-This project will not be anything without open-ness and a strong community.
+This project will not be anything without openness and a strong community. I would like this oppertunity to
+request all of the supporters to visit www.ipfire.org and check the outstanding work done by the IPFire team.
+It is a free appliance to secure and segment your network. DigitalRs has allocated 5 Million DRS for IPFire
+donation and to support its community based development. 
 
+Thank you for reading and best of luck!
 
 -the dev
