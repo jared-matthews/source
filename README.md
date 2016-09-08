@@ -40,8 +40,8 @@ Type: PoS <br />
 Coin Name: DigitalRs (Short for Digital Rupees) <br />
 Coin Ticker: DRS <br />
 Address Letter: D <br />
-RPC Port: 58786 <br />
-P2P Port:  58787 <br />
+RPC Port: 58787 <br />
+P2P Port:  58786 <br />
 PoS Percentage: 8% Per Year <br />
 Last PoW Block Was: 1000 <br />
 Intentional Blocks Staked During Premine: 5 (To reduce the staking amount going above 500M)<br />
