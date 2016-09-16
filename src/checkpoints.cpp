@@ -21,7 +21,11 @@ namespace Checkpoints
 
     static MapCheckpoints mapCheckpoints =
         boost::assign::map_list_of
-        ( 0,      hashGenesisBlock )
+//
+//      ( 0,      hashGenesisBlock )
+//	Better to have the unique genesis hash inserted. Unique always stands out :)
+//
+	( 0,     uint256("0x000002010bde21045e48a4eb219aab24871c1c669697d63e3d1592e5e8d1f9e9") )
 	( 1,     uint256("0x00000e42ff224cb88451a8a0b7f245a70d15cf0ad2b28319d40bb199f305c318") )
         ( 200,   uint256("0x000000141dca4261f257003b88c5a7afec71a3f8f48bd30a55210a286203f414") )
         ( 500,   uint256("0x0000028a97b5b1380ddba0e104906534e23bea2a13687b5d5c1fb175d48afdd1") )
