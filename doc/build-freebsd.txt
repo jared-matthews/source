@@ -1,4 +1,4 @@
-Copyright (c) 2016 DigitalRs Developers
+Copyright (c) 2016 DigitalRs Developers. Dr. Baloch Asif PhD
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
@@ -11,23 +11,24 @@ FREEBSD BUILD NOTES
 ===================
 DigitalRs Daemon was tested on FreeBSD 10.3 and is bit tricky. It needs patience as build
 takes time. You need to build from sources. Start off with:
-<br/>
-freebsd-update fetch <br/>
-freebsd-update install <br/>
-portsnap update fetch <br/>
-portsnap extract <br/>
-<br/>
-After FreeBSD and its ports are available, navigate to /usr/ports and build: <br/>
-<br/>
-devel/git <br/>
-devel/boost-all <br/>
-devel/gmake <br/>
-databases/db48 <br/>
-<br/>
-Don't forget to do a make clean after make install <br/>
-Set your proper flags for Compiler option in makefile and simply run <br/>
+
+freebsd-update fetch 
+freebsd-update install 
+portsnap update fetch ( always good to update before you start )
+portsnap extract
+
+After FreeBSD and its ports are available, navigate to /usr/ports and build: 
+
+devel/git 
+devel/boost-all 
+devel/gmake 
+databases/db48
+
+Don't forget to do a make clean after make install.
+
+Set your proper flags for Compiler option in makefile and simply run
 gmake -f makefile.unix
-<br/>
-Relocate the binary to appropirate patch and create conf with 600 permission.<br/>
-<br/>
+
+Relocate the binary to appropirate patch and create conf with 600 permission.
+
 Good Luck!
