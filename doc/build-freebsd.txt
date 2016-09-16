@@ -9,8 +9,8 @@ software written by Thomas Bernard.
 
 FREEBSD BUILD NOTES
 ===================
-DigitalRs Daemon was tested on FreeBSD 10.3 and is bit tricky. It needs patience as build <br/>
-takes time. You need to build from sources. Start off with: <br/>
+DigitalRs Daemon was tested on FreeBSD 10.3 and is bit tricky. It needs patience as build
+takes time. You need to build from sources. Start off with:
 <br/>
 freebsd-update fetch <br/>
 freebsd-update install <br/>
