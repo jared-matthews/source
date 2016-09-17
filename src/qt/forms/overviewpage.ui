@@ -50,7 +50,7 @@
                </font>
               </property>
               <property name="text">
-               <string>Wallet</string>
+               <string>Wallet Overview</string>
               </property>
              </widget>
             </item>
@@ -131,7 +131,7 @@
             <item row="1" column="0">
              <widget class="QLabel" name="label_6">
               <property name="text">
-               <string>Stake:</string>
+               <string>On Stake:</string>
               </property>
              </widget>
             </item>
@@ -297,7 +297,7 @@
                </font>
               </property>
               <property name="text">
-               <string>&lt;b&gt;Recent transactions&lt;/b&gt;</string>
+               <string>&lt;b&gt;Recent Transactions&lt;/b&gt;</string>
               </property>
              </widget>
             </item>
