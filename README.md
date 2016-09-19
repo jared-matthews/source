@@ -91,7 +91,7 @@ Private git access is based on ACL and can be obtained by whitelisting your IP. 
 Tip
 ===
 
-When compiling and running DigitalRs daemon on Linux, first run pauses at block 1000 during sync for 10+ minutes. <br />
+When compiling and running DigitalRs daemon on Linux, first run may pause at block 1000 during sync for 5+ minutes. <br />
 If you want to make a quick sync then do digitalrsd stop and then digitalrsd start again for immediate sync. <br />
 This takes time because inactive user wallets are tried several times before next block sync is initiated at 1K block. <br />
 Note that this is not a bug and initial startup procedure to create a valid peers.dat file. <br />
