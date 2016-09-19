@@ -23,7 +23,7 @@ namespace Checkpoints
         boost::assign::map_list_of
 //
 //      ( 0,      hashGenesisBlock )
-//	Better to have the unique genesis hash inserted. Unique always stands out :)
+//	Better to have the unique genesis hash inserted. Unique always stands out :) -Dr. Baloch
 //
 	( 0,     uint256("0x000002010bde21045e48a4eb219aab24871c1c669697d63e3d1592e5e8d1f9e9") )
 	( 1,     uint256("0x00000e42ff224cb88451a8a0b7f245a70d15cf0ad2b28319d40bb199f305c318") )
@@ -34,19 +34,15 @@ namespace Checkpoints
         ( 2000,  uint256("0xdec61c60907b8bbaebcff925a4b17ec45042b69a3d4193b988bca621ac147cbf") )
         ( 2400,  uint256("0xca255b349bd3243718f256b87a3cddbb36d7376a2771a72908203221f9d45a36") )
 	( 3100,  uint256("0xfdcf8ad1c23f2170c89aca758b52ce8913071bd6a17277e1aebd4b2943dae2e5") )
-	( 3800,  uint256("0x8ba46476bf708eac75d0de2f8df9183948c35c28c60970b2e9d1e8082eb0e318") )
 	( 5000,  uint256("0x5d7560839f170eaca4482dea2e18a7e5afd373619a969b621a3272a402bb85f7") )
-	( 6200,  uint256("0xd1a0eec859169ee5c127df5db3120d51a36ab84b99def99c445b7b179cb74cb5") )
-	( 7000,  uint256("0x859fc94bf1d67a192ed9935485a0e4daebb69eb4ef05da7d915709175070bdfe") )
 	( 8100,  uint256("0xa78be4325d2c07e91336141de2d040e49d33f6716486a2a149b022f9090207b5") )
-	( 9300,  uint256("0xa260aa4913bd9c9ec063082adf9c8206af4d157ac34eb05b21f84c44612ffeba7") )
 	( 11000,  uint256("0xceaace06dc15b16fc70ab9ca533df5f52172da08530430b0bc06cc8ae0b8ad92") )
 	( 13000,  uint256("0x5c58270e7d3e5daf2e8b433fa2bce1c8ef339f96aa9f782eba0f4716c59607da") )
 	( 14500,  uint256("0x542f3a55069df7b41f33faeb6b02b0ac162d80cabb86161e49b471a7e40f08e6") )
 	( 16000,  uint256("0x862bc341112a82dabf0d3ec80c6e18f2fe1ae46e3b940622e58b0e668d103876") )
 	( 19400,  uint256("0xf5e8da78dd83bac3758f0822f6059a0dd5092434c105a951584f719a5dd33df2") )
-	( 23000,  uint256("0xb4f4347010bc60b9cb30202dda02e646a1bbe3f4f4b55c6c67115450d76c9b59") )
 	( 27000,  uint256("0x4996994d049c7c5f0fa940aed5d9c9665825a483b01353164873c3bfecf61d8b") )
+	( 31500,  uint256("0xe6139eaeb51379cdc533895e3985948ad4b63aef11c94315e6d7bc70280ffc3e") )
     ;
 
     static MapCheckpoints mapCheckpointsTestnet =
