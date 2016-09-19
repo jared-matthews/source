@@ -29,6 +29,6 @@ Don't forget to do a make clean after make install.
 Set your proper flags for Compiler option in makefile and simply run
 gmake -f makefile.unix
 
-Relocate the binary to appropirate patch and create conf with 600 permission.
+Relocate the binary to appropirate path and create conf with 600 permission.
 
 Good Luck!
