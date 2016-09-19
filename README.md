@@ -55,6 +55,12 @@ Mined Blocks Before Confimation: 20 Blocks <br />
 Min Transaction Fee: 0.0001 DRS <br />
 Stage Age: 5 Hours <br />
 
+Block Explorers
+===============
+
+First: https://explorer.digitalrs.me
+Second: https://brain.digitalrs.me
+
 Onion Sync
 ==========
 
