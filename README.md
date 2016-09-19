@@ -1,4 +1,4 @@
-
+![alt tag](https://avatars1.githubusercontent.com/u/21312549?v=3&s=466)
 DigitalRS Development Tree
 
 DigitalRS is a fast & reliable PoS-based cryptocurrency.
