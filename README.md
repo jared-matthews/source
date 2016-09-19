@@ -58,7 +58,7 @@ Stage Age: 5 Hours <br />
 Block Explorers
 ===============
 
-First: https://explorer.digitalrs.me
+First: https://explorer.digitalrs.me <br />
 Second: https://brain.digitalrs.me
 
 Onion Sync
