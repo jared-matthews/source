@@ -16,7 +16,7 @@ Development process
 
 Developers work in their own trees, then submit pull requests when
 they think their feature or bug fix is ready. At present, only I
-Dr. Baloch Asif PhD have the push access. The team is growsing &
+Dr. Baloch Asif PhD have the push access. The team is growing and
 we need dedicated community developers to accomplish project roadmap.
 
 The patch will be accepted if there is broad consensus that it is a
