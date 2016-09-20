@@ -60,6 +60,7 @@ Block Time: 90 seconds <br />
 Target Timespan: 1 block <br />
 Transaction Confirmations: 6 Blocks <br />
 Mined Blocks Before Confimation: 20 Blocks <br />
+Spend State for Mined Blocks: 510 Blocks <br />
 Min Transaction Fee: 0.0001 DRS <br />
 Stage Age: 5 Hours <br />
 
