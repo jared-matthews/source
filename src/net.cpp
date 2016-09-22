@@ -1228,6 +1228,7 @@ static const char *strDNSSeed[][2] = {
     {"cryptoedge.net", "node8.cryptoedge.net"},
     {"cryptoedge.net", "node9.cryptoedge.net"},
     {"cryptoedge.net", "node10.cryptoedge.net"},
+    {"cryptoedge.net", "node11.cryptoedge.net"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
