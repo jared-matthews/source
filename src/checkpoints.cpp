@@ -23,7 +23,7 @@ namespace Checkpoints
         boost::assign::map_list_of
 //
 //      ( 0,      hashGenesisBlock )
-//	Better to have the unique genesis hash inserted. Unique always stands out :) -Dr. Baloch
+//	Better to have the unique genesis hash inserted. Unique always stands out -Dr. Baloch
 //
 	( 0,     uint256("0x000002010bde21045e48a4eb219aab24871c1c669697d63e3d1592e5e8d1f9e9") )
 	( 1,     uint256("0x00000e42ff224cb88451a8a0b7f245a70d15cf0ad2b28319d40bb199f305c318") )
@@ -42,7 +42,7 @@ namespace Checkpoints
 	( 16000,  uint256("0x862bc341112a82dabf0d3ec80c6e18f2fe1ae46e3b940622e58b0e668d103876") )
 	( 19400,  uint256("0xf5e8da78dd83bac3758f0822f6059a0dd5092434c105a951584f719a5dd33df2") )
 	( 27000,  uint256("0x4996994d049c7c5f0fa940aed5d9c9665825a483b01353164873c3bfecf61d8b") )
-	( 46000,  uint256("0x2b4dfc298c890d4a1e6f148f99967b0846b8870509f1852336f8693c6c00789b") )
+	( 60000,  uint256("0x60bd46212269e708a034b80eaba959b56c100b52c69d3b0775ca5b72c4d1471c") )
     ;
 
     static MapCheckpoints mapCheckpointsTestnet =
